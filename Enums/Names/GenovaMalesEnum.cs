@@ -1,0 +1,41 @@
+﻿namespace FamilyGenerator.Enums.Names
+{
+    public enum GenovaMalesEnum
+    { 
+        Agostino,
+        Ambrogio,
+        Antonio,
+        Barnaba,
+        Benedetto,
+        Brizio,
+        Cesare,
+        Clemente,
+        Costantino,
+        Cristoforo,
+        Domenico, 
+        Emilio,
+        Federico,
+        Francesco,
+        Gabriele,
+        Giacomo,
+        Gian,
+        Giovanni,
+        Girolamo,
+        Giuseppe,
+        Lorenzo,
+        Marcello,
+        Marco,
+        Matteo,
+        Nicolò,
+        Ottaviano,
+        Paolo,
+        Pier,
+        Pietro,
+        Prospero,
+        Raffaele, 
+        Rodolfo,
+        Stefano, 
+        Tommaso,
+        Vincenzo
+    }
+}

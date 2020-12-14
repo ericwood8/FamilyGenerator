@@ -1,0 +1,41 @@
+﻿namespace FamilyGenerator.Enums.Names
+{
+    public enum FirenzeMalesEnum
+    {
+        Agnolo,
+        Alessandro,
+        Alessio,
+        Andrea,
+        Angelo,
+        Antonio,
+        Benvenuto,
+        Corso,
+        Cosimo,
+        Domenico,
+        Emilio,
+        Filippino,
+        Fiorentino,
+        Forese,
+        Francesco,
+        Giorgio,
+        Giotto,
+        Giovanni,
+        Giulio,
+        Jacapo,
+        Jacopo,
+        Lorenzo,
+        Manno,
+        Matteo,
+        Neri,
+        Nerio,
+        Niccolò,
+        Palla,
+        Piero,
+        Puccio,
+        Sandro,
+        Taddeo,
+        Ugolino,
+        Vespasiano,
+        Zanobi
+    }
+}

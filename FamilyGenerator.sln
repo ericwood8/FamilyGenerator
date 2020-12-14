@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyGenerator", "FamilyGenerator.csproj", "{ABD56B3C-6B48-4D1C-9B09-04BC49686952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelsTest", "ModelsTest\ModelsTest.csproj", "{CA79A386-34B9-464B-A7CB-31CE46E3EE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD56B3C-6B48-4D1C-9B09-04BC49686952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD56B3C-6B48-4D1C-9B09-04BC49686952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD56B3C-6B48-4D1C-9B09-04BC49686952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD56B3C-6B48-4D1C-9B09-04BC49686952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA79A386-34B9-464B-A7CB-31CE46E3EE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA79A386-34B9-464B-A7CB-31CE46E3EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA79A386-34B9-464B-A7CB-31CE46E3EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA79A386-34B9-464B-A7CB-31CE46E3EE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809EBF76-ECB2-4094-8EEA-783C6AF1C3FF}
+	EndGlobalSection
+EndGlobal

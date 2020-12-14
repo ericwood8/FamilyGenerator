@@ -1,0 +1,39 @@
+﻿namespace FamilyGenerator.Enums.Names
+{
+    public enum VeneziaFemalesEnum
+    {
+        Agnesina,
+        Alegreza,
+        Alvisa,
+        Anna,
+        Benevenuta,
+        Bianca,
+        Catarina,
+        Cecilia,
+        Colleta,
+        Cristina,
+        Donata,
+        Elizabeta,
+        Florentia,
+        Francesca,
+        Gelinda,
+        Gerita, 
+        Helena,
+        Liona,
+        Lucia,
+        Magdalena,
+        Margarita,
+        Maria,
+        Micola,
+        Nicolosia,
+        Orelia,
+        Pasqualina,
+        Penina,
+        Richa,
+        Thomisina,
+        Veronica,
+        Zanetta,
+        Zilia,
+        Zuana
+    }
+}
