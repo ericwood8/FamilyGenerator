@@ -1,7 +1,7 @@
 # FamilyGenerator
 A console application written in C# with .NET 5. This generator builds names and ages of family members (for RPGs or Creative Writing).
 
-I contend we should build "purpose-built" programs, not focusing on "clean code" like advocates such as Robert Martin.  This program is the first in a series of my purpose-built programs that illustrate "expandable programs".  Expandable programs are those whose functionalty grows then more as new data is introduced.  In this particular case, the name-generator program grows as more Italian city state (different major "Italian" city states had different dialects and thus different names used for its citizens).  
+I contend we should build flexible "purpose-built" programs, not focusing on "clean code" like advocates such as Robert Martin.  This program is the first in a series of my purpose-built programs that illustrate "expandable programs".  Expandable programs are those whose functionalty grows then more as new data is introduced.  In this particular case, the name-generator program grows as more Italian city state (different major "Italian" city states had different dialects and thus different names used for its citizens).  
 
 Written for RPG game where you play an Italian family in the Renaissance. The program builds names (randomly picking first name and last name) and ages (randomly calculating valid possible age) of family members. Any children with fractional ages are infants.  Childbirth age for women is considered to stop at 40 years old and this impacts the ages of the children. Names are different based on the particular city state (because unlike modern Italy, the city states had different languages and the Italian language is a newer invention).
 
